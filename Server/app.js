@@ -13,7 +13,7 @@ var utenteRouter = usersRouter.router;
 
 var app = express();
 
-app.use(cors({credentials: true, origin: true}));
+app.use(cors({credentials: true, origin: true, origin: 'https://autoscuolab.vercel.app'}));
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
@@ -22,7 +22,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(function (req, res, next) {
 
     // Website you wish to allow to connect
-    res.setHeader('Access-Control-Allow-Origin', 'https://autoscuolab.vercel.app/');
+    res.setHeader('Access-Control-Allow-Origin', 'https://autoscuolab.vercel.app');
 
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
