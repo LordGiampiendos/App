@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.247a8507.chunk.css",
+    "main.js": "/static/js/main.86b3bdbf.chunk.js",
+    "main.js.map": "/static/js/main.86b3bdbf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dc86439.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dc86439.js.map",
+    "static/js/2.06b97d45.chunk.js": "/static/js/2.06b97d45.chunk.js",
+    "static/js/2.06b97d45.chunk.js.map": "/static/js/2.06b97d45.chunk.js.map",
+    "static/js/3.7e903ef5.chunk.js": "/static/js/3.7e903ef5.chunk.js",
+    "static/js/3.7e903ef5.chunk.js.map": "/static/js/3.7e903ef5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.247a8507.chunk.css.map": "/static/css/main.247a8507.chunk.css.map",
+    "static/js/2.06b97d45.chunk.js.LICENSE.txt": "/static/js/2.06b97d45.chunk.js.LICENSE.txt",
+    "static/media/stile.css": "/static/media/race-car.d7256f50.gif",
+    "static/media/account.bdaf95f0.ico": "/static/media/account.bdaf95f0.ico",
+    "static/media/carta.5d869c7a.jpg": "/static/media/carta.5d869c7a.jpg",
+    "static/media/casa.006f923b.ico": "/static/media/casa.006f923b.ico",
+    "static/media/facebook.872dc586.ico": "/static/media/facebook.872dc586.ico",
+    "static/media/gruppo.5370c160.jpg": "/static/media/gruppo.5370c160.jpg",
+    "static/media/impiegato.656948d9.ico": "/static/media/impiegato.656948d9.ico",
+    "static/media/instagram.df786118.ico": "/static/media/instagram.df786118.ico",
+    "static/media/mac.ff4b1645.ico": "/static/media/mac.ff4b1645.ico",
+    "static/media/parcheggio.afcf873a.ico": "/static/media/parcheggio.afcf873a.ico",
+    "static/media/sala.8b22bee3.jpg": "/static/media/sala.8b22bee3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc86439.js",
+    "static/js/2.06b97d45.chunk.js",
+    "static/css/main.247a8507.chunk.css",
+    "static/js/main.86b3bdbf.chunk.js"
+  ]
+}
